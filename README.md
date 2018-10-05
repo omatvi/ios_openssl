@@ -109,4 +109,5 @@ class RSAKeypair {
         privateKey = String(cString: priBuffer)
         print(privateKey)
     }
+}
 ```
